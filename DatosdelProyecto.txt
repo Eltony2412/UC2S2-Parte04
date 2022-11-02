@@ -1,3 +1,4 @@
-Gayoso
-Luque
-Rojas
+Integrantes:
+	Gayoso - https://github.com/LuisGF16/UC2S2-Parte02.git
+	Luque - https://github.com/Eltony2412/UC2S2-Parte01.git
+	Rojas - https://github.com/alderaban29/UC2S2-Parte03.git
